@@ -1,0 +1,8 @@
+Model Information:
+* title:	Digestive_obj_mtl
+* source:	https://sketchfab.com/3d-models/digestive-obj-mtl-e6977bfff4a5429b8a8e08ac8858ea7a
+* author:	issamchong (https://sketchfab.com/issamchong)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
